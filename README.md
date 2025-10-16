@@ -6,9 +6,13 @@ A powerful, modern code editor specifically designed for Rust development with a
 This Project I Create It Alone And I Hope I Can Make it Better So Don't Forget To Support Us If You Think This Project
 Worth Support :)
 
+
+
 For Installer Go To Our Website And Download it:
 
 https://crasius.top/Products/A3%20Rust%20Editor.html
+
+
 
 SYSTEM REQUIREMENTS
 
