@@ -6,6 +6,8 @@ A powerful, modern code editor specifically designed for Rust development with a
 This Project I Create It Alone And I Hope I Can Make it Better So Don't Forget To Support Us If You Think This Project
 Worth Support :)
 
+For Installer Go To Our Website And Download it:
+https://crasius.top/Products/A3%20Rust%20Editor.html
 
 SYSTEM REQUIREMENTS
 
@@ -181,8 +183,7 @@ The installer can associate .mndoc files (A³ Manage Documents) with the editor 
 For How To Use I Will Upload Video In Our Youtube Crasius/@Crasius-madman
 
 Support Us:
+https://reymit.ir/crasius
 
-
-SUPPORT
 
 For issues, feature requests, or contributions, please visit our GitHub repository.
