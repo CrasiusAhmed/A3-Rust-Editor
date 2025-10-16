@@ -1,3 +1,5 @@
+![A3 Rust](https://github.com/user-attachments/assets/973ff29a-7287-48f6-8c70-727443760f30)
+
 A3 Rust Editor
 
 A powerful, modern code editor specifically designed for Rust development with advanced project management features.
